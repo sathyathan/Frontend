@@ -53,3 +53,5 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 5. Push to the branch (`git push origin feature/feature-name`).
 6. Create a new Pull Request.
 
+postman documentation link:
+https://documenter.getpostman.com/view/35217393/2sA3XLFPzG
